@@ -31,7 +31,7 @@
     "node-gyp": "^9.1.0",
     "nodemark": "^0.3.0",
     "sqlite": "^4.0.23",
-    "sqlite3": "^5.0.2"
+    "sqlite3": "https://github.com/Bilb/node-sqlite3"
   },
   "scripts": {
     "install": "npm run download && npm run build-release",
